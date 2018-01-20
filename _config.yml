@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Happiness Revived'
-description:	       'a blog discussing the science of happiness the How of Happiness '
+description:	       'the scientific view of happiness '
 author:              'Feby I'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
