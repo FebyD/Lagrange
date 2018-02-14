@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Feby's Trip"
+title: "Grace and Gratitude"
 author: "Feby Ibrahim"
 categories: journal
 tags: [documentation,sample]
-image: mountains.jpg
+image:
 ---
 
-I enjoyed taking a trip around town. Bringing it around town.
+Ever here about having an "attitude of gratitude?" It might be a hackneyed phrase and elementary to some, but research has some measures to prove it.Dr. Sonja Lyubomirsky, in the "How of Happiness" lists serveral reasons for how and why this clich`e is scientifically sound. One of the reasons she says gratitude helps us with is coping with stress and trauma (p 93). This hits a personal button for me as it might with you. With all the stresses that come with being a junior in college and managing a long, long distance relationship, it is quiet easy for me to breakdown and be overly overwhemled. Telling you to just be thankful for the stresses you're in just doesn't make too much sense. And, yet, gratitude was the second commonly expresses emotion after rSeptember 11, 2001 (p 93, Fredickson et al (2003). Why is that? Maybe because people were being grateful for the safety of their family memeber, friends, themselves. Likewise, in the midst of my stresses, being grateful to even be  in school, having great mentors, and having a great partner to lean on during those times does really lift me out of my sadness. The percentage of happiness level doesn't neccessarily shoot up, but it does ease of stress little by little. Another great aspect of gratitude is that is diminishes negative feelings, such as anger, bitterness and greeed (p 95) and it lends you to be more graceful. Showing grace is so beneficial and profitable for high levels of happiness. Understanding that people are human are fauly in many ways can help you see certain situations that anger or bothter you through a new lens. In my tough times with my mom, for example, allowing myself show grace and understand that we come from differnt generations helps me to let go of a lot of our issues and reduces the stressful environment. To summarize, maybe practicing gratitude and showing grace is a new thing for you, but to boost your happiness and reduces some of your stresses, I think it is worth a great deal to try. 
